@@ -1,10 +1,4 @@
 -- Create the database
-CREATE DATABASE Silver_Coin;
-
--- Use the database
-USE Silver_Coin;
-
--- Create the database
 CREATE DATABASE SilverCoin;
 USE SilverCoin;
 
